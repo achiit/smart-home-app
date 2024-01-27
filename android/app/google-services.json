@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1031920992331",
+    "firebase_url": "https://elecwa-85bea-default-rtdb.firebaseio.com",
+    "project_id": "elecwa-85bea",
+    "storage_bucket": "elecwa-85bea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031920992331:android:ae70a1fc955971e6b48dce",
+        "android_client_info": {
+          "package_name": "com.domus.smarthome.domus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBivZH_NDbSDJw-uAl_k74VzdoGPNZaNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
